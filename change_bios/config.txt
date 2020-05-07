@@ -1,0 +1,16 @@
+ProcessorEistEnable:1
+ProcessorCcxEnable:1
+NumaEn:0
+DCUStreamerPrefetcherEnable:1
+DCUIPPrefetcherEnable:1
+OSWdtEnable:0
+VTdSupport:1
+InterruptRemap:1
+CoherencySupport:0
+ATS:0
+PassThroughDma:0
+PXE1Setting:1
+SlotPxeDis:0
+SataCnfigure:1
+sSataInterfaceMode:0
+CustomPowerPolicy:0
